@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="bg-gray-900 text-white min-h-screen">
       {/* Navbar */}
-      <nav className="flex justify-between items-center p-5 bg-sky-900 shadow-md fixed w-full top-0 z-10">
+      <nav className="flex justify-between items-center p-5 bg-teal-900 shadow-md fixed w-full top-0 z-10">
         <h1 className="text-2xl font-bold">Jeken Maharjan</h1>
         <ul className="flex gap-6">
           <li><a href="#about" className="hover:text-gray-400">About</a></li>
